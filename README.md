@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:00F5FF,100:050816&height=210&section=header&text=Swapnil%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Java%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1224,100:00F5FF&height=210&section=header&text=Swapnil%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Java%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 ---
@@ -112,5 +112,5 @@ I build clean, efficient, and production-ready web applications that solve real-
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5FF,100:0B3D91&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0B1224,100:050816&height=120&section=footer"/>
 </p>
