@@ -1,193 +1,116 @@
-<!-- ===================== TOP ANIMATED WAVE ===================== -->
-
-<div align="center" style="line-height:0; transform: rotate(180deg);">
-
-<svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-  style="display:block; width:100%; height:140px;">
-
-  <defs>
-    <linearGradient id="waveTop" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#0B3D91"/>
-      <stop offset="100%" stop-color="#00F5FF"/>
-    </linearGradient>
-  </defs>
-
-  <path fill="url(#waveTop)" opacity="0.8">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z;
-      M0,80 C300,0 900,120 1200,40 L1200,120 L0,120 Z;
-      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z
-      " />
-  </path>
-
-</svg>
-</div>
-
-<!-- ===================== BANNER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Swapnil Banner"/>
-</p>
-
-<h2 align="center">Full-Stack Developer | Backend Developer | Java Developer 🚀</h2>
-
-<p align="center">
-  📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:00F5FF,100:050816&height=210&section=header&text=Swapnil%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Java%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 ---
 
-## 👨‍💻 Summary
+## 👨‍💻 About Me
 
-Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications. Delivered freelance web solutions and built scalable products including an intelligent agriculture assistant and AI-enabled e-commerce platform.
+🎓 B.E. Computer Engineering — **CGPA: 8.70**
+💼 Java Intern — **TalentBattle**
+🚀 Innovation Lead — **CESA**
+🧠 Strong foundation in Java, React, Node.js & REST APIs
+⚡ Focused on scalable architecture and AI-powered applications
 
-🚀 Innovation Lead at CESA
-🏆 Active hackathon participant
-🎯 Seeking entry-level Full-Stack or Backend Developer role
+I build clean, efficient, and production-ready web applications that solve real-world problems.
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Innovation Lead — CESA (Computer Engineering Students Association, Pune)
+### 🔹 Innovation Lead — CESA
 
-**Oct 2025 – Present**
-
-* Led innovation-driven technical initiatives and student activities
-* Coordinated team members for successful event execution
-* Reviewed and supervised project work
-* Promoted collaborative technical learning
-
----
+* Led innovation-driven technical initiatives
+* Coordinated teams for successful events
+* Supervised project quality
+* Promoted collaborative development
 
 ### 🔹 Java Intern — TalentBattle
 
-**Jul 2025 – Aug 2025**
-
-* Completed structured training in Core Java and OOP
-* Built Java mini-projects to strengthen backend skills
-* Applied inheritance, polymorphism, encapsulation
-* Improved debugging and problem-solving
-
----
+* Implemented Core Java and OOP principles
+* Built backend mini-projects
+* Worked with Collections and Exception Handling
+* Strengthened debugging and logical thinking
 
 ### 🔹 Freelance Web Developer
 
-**2024 – Present**
-
-* Designed responsive websites for small business clients
-* Converted client requirements into optimized solutions
-* Provided basic digital marketing support
+* Developed responsive client websites
+* Integrated REST APIs and databases
+* Improved UI/UX and performance
 
 ---
 
 ## 🚀 Projects
 
+### 🛒 AI-Powered Nike E-Commerce
+
+* AI shoe recommendation assistant
+* Secure API integration
+* Modern React + Node.js architecture
+* Scalable product design
+
+**Tech:** React.js, Node.js, REST APIs, AI
+
+🔗 Live: https://nike-v3-shoes-swap.vercel.app/
+
+---
+
 ### 🌱 Agrinova — Smart Agriculture System
 
-**Mar 2025 – Present**
-
-* Agriculture assistance system analyzing plant & land data
+* Plant and land data analysis
 * Season-based crop recommendation
-* Responsive user-friendly interface
+* Farmer-friendly dashboard
 
 **Tech:** JavaScript, APIs, Data Processing
 
 ---
 
-### 🛒 Nike-Inspired E-Commerce Web Application
+## 🛠 Technical Skills
 
-**Dec 2025 – Feb 2026**
-
-* Modern e-commerce platform using React & Node.js
-* AI-powered product recommendation assistant
-* Secure API handling and responsive UI
-
-🔗 Live: https://nike-v3-shoes-swap.vercel.app/
-
-**Tech:** React, Node.js, REST APIs, AI
+**Languages:** Java, C++, Python, JavaScript
+**Frontend:** React.js, HTML5, CSS3, Bootstrap
+**Backend:** Node.js, REST APIs, Firebase, MySQL
+**Core CS:** DSA, OOP, DBMS
+**Tools:** Git, GitHub, VS Code, Postman, Figma
+**Other:** AI Integration, Prompt Engineering
 
 ---
 
-## 🧰 Technical Skills
+## 🏆 Achievements
 
-**Programming:**
-Java • C++ • Python • JavaScript
-
-**Web Development:**
-HTML • CSS • JavaScript • React • Bootstrap
-
-**Backend & Database:**
-Node.js • REST API • MySQL • Firebase
-
-**Core Concepts:**
-DSA • OOP • DBMS
-
-**Tools:**
-Git • GitHub • Postman • VS Code • Figma
-
-**Other:**
-AI Integration • Prompt Engineering
-
----
-
-## 🏆 Key Achievements
-
-🥋 National & International Medalist — Karate, Kickboxing, Taekwondo
-📜 IBM SkillsBuild Certification — Enterprise-grade AI
-🚀 Innovation Lead — CESA
-🏅 State-Level School Sports Selection
+* 🥋 National & International Medalist — Karate, Kickboxing, Taekwondo
+* 📜 IBM SkillsBuild — Enterprise-grade AI
+* 🚀 Innovation Lead — CESA
+* 🏅 State-Level Sports Selection
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-P-002&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-📧 Email: [swapnilpatil2005980098@gmail.com](mailto:swapnilpatil2005980098@gmail.com)
-📱 Phone: +91-8956132407
-💼 LinkedIn: https://linkedin.com/in/swapnil-r-patil
-🌐 GitHub: https://github.com/Swapnil-P-002
-
----
-
-<!-- ===================== BOTTOM ANIMATED WAVE ===================== -->
-
-<div align="center" style="line-height:0;">
-
-<svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-  style="display:block; width:100%; height:140px;">
-
-  <defs>
-    <linearGradient id="waveBottom" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#00F5FF"/>
-      <stop offset="100%" stop-color="#0B3D91"/>
-    </linearGradient>
-  </defs>
-
-  <path fill="url(#waveBottom)" opacity="0.8">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z;
-      M0,80 C300,0 900,120 1200,40 L1200,120 L0,120 Z;
-      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z
-      " />
-  </path>
-
-</svg>
-</div>
+📍 Nashik, Maharashtra, India
+📧 [swapnilpatil2005980098@gmail.com](mailto:swapnilpatil2005980098@gmail.com)
+📱 +91-8956132407
+🔗 LinkedIn: https://linkedin.com/in/swapnil-r-patil
+🌍 GitHub: https://github.com/Swapnil-P-002
 
 ---
 
-⭐ From **Swapnil Patil**
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5FF,100:0B3D91&height=120&section=footer"/>
+</p>
