@@ -28,6 +28,8 @@ I build clean, efficient, and production-ready web applications that solve real-
 
 ---
 
+## 💼 Experience
+
 ### 🔹 Java Intern — TalentBattle
 
 * Implemented Core Java and OOP principles
@@ -110,12 +112,12 @@ I build clean, efficient, and production-ready web applications that solve real-
 
 ---
 
+⭐ From **Swapnil Patil**
+
+---
+
 <!-- ================= FOOTER (DARK) ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0B1224,100:050816&height=120&section=footer"/>
 </p>
-
----
-
-⭐ From **Swapnil Patil**
