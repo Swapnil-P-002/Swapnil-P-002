@@ -84,15 +84,10 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170"
+  <img height="165"
        src="https://github-readme-stats-murex-beta-46.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170"
+  <img height="165"
        src="https://github-readme-stats-murex-beta-46.vercel.app/api/top-langs/?username=Swapnil-P-002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
