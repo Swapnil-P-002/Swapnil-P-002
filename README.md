@@ -1,25 +1,9 @@
-<!-- ===================== HEADER BANNER ===================== -->
-
-<p align="center">
-  <img src="./p.svg" width="100%" alt="Swapnil Banner"/>
-</p>
-
-<h2 align="center">
-Full-Stack Developer | Backend Developer | Java Developer 🚀
-</h2>
-
-<p align="center">
-📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
-</p>
-
----
-
 <!-- ===================== TOP WAVE ===================== -->
 
 <div align="center" style="line-height:0; transform: rotate(180deg);">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-     style="display:block; width:100%; height:140px;">
+     style="display:block; width:100%; height:160px;">
 
   <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
            70.36-5.37,136.33-33.31,206.8-37.5
@@ -53,6 +37,18 @@ Full-Stack Developer | Backend Developer | Java Developer 🚀
 
 </svg>
 </div>
+
+---
+
+<h1 align="center">Swapnil Patil</h1>
+
+<h3 align="center">
+Full-Stack Developer | Backend Developer | Java Developer 🚀
+</h3>
+
+<p align="center">
+📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
+</p>
 
 ---
 
@@ -125,12 +121,12 @@ Computer Engineering student and Full-Stack Developer with hands-on experience i
 
 ---
 
-<!-- ===================== BOTTOM INVERT WAVE ===================== -->
+<!-- ===================== BOTTOM WAVE ===================== -->
 
 <div align="center" style="line-height:0;">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-     style="display:block; width:100%; height:140px;">
+     style="display:block; width:100%; height:160px;">
 
   <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
            70.36-5.37,136.33-33.31,206.8-37.5
