@@ -1,39 +1,27 @@
-<!-- ===================== TOP WAVE ===================== -->
+<!-- ===================== TOP ANIMATED WAVE ===================== -->
 
 <div align="center" style="line-height:0; transform: rotate(180deg);">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
      style="display:block; width:100%; height:160px;">
 
-  <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
-           70.36-5.37,136.33-33.31,206.8-37.5
-           C438.64,32.43,512.34,53.67,583,72.05
-           c69.27,18,138.3,24.88,209.4,13.08
-           36.15-6,69.85-17.84,104.45-29.34
-           C989.49,25,1113-14.29,1200,52.47V0Z"
-        opacity="0.25"
-        fill="#0B3D91"></path>
+  <defs>
+    <linearGradient id="waveGradient" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#0B3D91"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+    </linearGradient>
+  </defs>
 
-  <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05
-           99.41,111.27,165,111,224.58,91.58
-           c31.15-10.15,60.09-26.07,89.67-39.8
-           40.92-19,84.73-46,130.83-49.67
-           36.26-2.85,70.9,9.42,98.6,31.56
-           31.77,25.39,62.32,62,103.63,73
-           40.44,10.79,81.35-6.69,119.13-24.28
-           s75.16-39,116.92-43.05
-           c59.73-5.85,113.28,22.88,168.9,38.84
-           30.2,8.66,59,6.17,87.09-7.5
-           22.43-10.89,48-26.93,60.65-49.24V0Z"
-        opacity="0.5"
-        fill="#0B3D91"></path>
-
-  <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57
-           43-7.64,84.23-20.12,127.61-26.46
-           59-8.63,112.48,12.24,165.56,35.4
-           C827.93,77.22,886,95.24,951.2,90
-           c86.53-7,172.46-45.71,248.8-84.81V0Z"
-        fill="#0B3D91"></path>
+  <path fill="url(#waveGradient)" opacity="0.7">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z;
+      M0,80 C300,0 900,120 1200,40 L1200,120 L0,120 Z;
+      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z
+      " />
+  </path>
 
 </svg>
 </div>
@@ -52,64 +40,23 @@ Full-Stack Developer | Backend Developer | Java Developer 🚀
 
 ---
 
-## 👨‍💻 Summary
+## 👨‍💻 About Me
 
-Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications.
+Computer Engineering student and Full-Stack Developer focused on building scalable AI-powered web applications.
 
 🚀 Innovation Lead at CESA  
-🏆 Active hackathon participant  
-🎯 Seeking entry-level Full-Stack or Backend Developer role  
+🏆 Hackathon Enthusiast  
+🎯 Seeking Full-Stack / Backend roles  
 
 ---
 
-## 💼 Experience
-
-### 🔹 Innovation Lead — CESA  
-**Oct 2025 – Present**
-
-- Led innovation-driven technical initiatives  
-- Coordinated team members for events  
-- Supervised project quality  
-- Promoted collaborative learning  
-
----
-
-### 🔹 Java Intern — TalentBattle  
-**Jul 2025 – Aug 2025**
-
-- Completed Core Java and OOP training  
-- Built backend mini-projects  
-- Applied inheritance and polymorphism  
-- Improved debugging skills  
-
----
-
-### 🔹 Freelance Web Developer  
-**2024 – Present**
-
-- Built responsive client websites  
-- Integrated REST APIs and databases  
-- Improved UI/UX performance  
-
----
-
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
 **Languages:** Java • C++ • Python • JavaScript  
 **Frontend:** React • HTML • CSS • Bootstrap  
 **Backend:** Node.js • REST APIs • Firebase • MySQL  
 **Core:** DSA • OOP • DBMS  
 **Tools:** Git • GitHub • Postman • VS Code • Figma  
-**Other:** AI Integration • Prompt Engineering  
-
----
-
-## 🏆 Achievements
-
-🥋 National & International Medalist  
-📜 IBM SkillsBuild AI Certification  
-🚀 Innovation Lead — CESA  
-🏅 State-Level Sports Selection  
 
 ---
 
@@ -121,42 +68,30 @@ Computer Engineering student and Full-Stack Developer with hands-on experience i
 
 ---
 
-<!-- ===================== BOTTOM WAVE ===================== -->
+<!-- ===================== BOTTOM ANIMATED WAVE ===================== -->
 
 <div align="center" style="line-height:0;">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
      style="display:block; width:100%; height:160px;">
 
-  <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
-           70.36-5.37,136.33-33.31,206.8-37.5
-           C438.64,32.43,512.34,53.67,583,72.05
-           c69.27,18,138.3,24.88,209.4,13.08
-           36.15-6,69.85-17.84,104.45-29.34
-           C989.49,25,1113-14.29,1200,52.47V0Z"
-        opacity="0.25"
-        fill="#0B3D91"></path>
+  <defs>
+    <linearGradient id="waveGradient2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#0B3D91"/>
+    </linearGradient>
+  </defs>
 
-  <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05
-           99.41,111.27,165,111,224.58,91.58
-           c31.15-10.15,60.09-26.07,89.67-39.8
-           40.92-19,84.73-46,130.83-49.67
-           36.26-2.85,70.9,9.42,98.6,31.56
-           31.77,25.39,62.32,62,103.63,73
-           40.44,10.79,81.35-6.69,119.13-24.28
-           s75.16-39,116.92-43.05
-           c59.73-5.85,113.28,22.88,168.9,38.84
-           30.2,8.66,59,6.17,87.09-7.5
-           22.43-10.89,48-26.93,60.65-49.24V0Z"
-        opacity="0.5"
-        fill="#0B3D91"></path>
-
-  <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57
-           43-7.64,84.23-20.12,127.61-26.46
-           59-8.63,112.48,12.24,165.56,35.4
-           C827.93,77.22,886,95.24,951.2,90
-           c86.53-7,172.46-45.71,248.8-84.81V0Z"
-        fill="#0B3D91"></path>
+  <path fill="url(#waveGradient2)" opacity="0.7">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z;
+      M0,80 C300,0 900,120 1200,40 L1200,120 L0,120 Z;
+      M0,40 C300,120 900,0 1200,80 L1200,120 L0,120 Z
+      " />
+  </path>
 
 </svg>
 </div>
