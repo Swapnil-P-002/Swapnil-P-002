@@ -3,16 +3,16 @@
 <div align="center" style="line-height:0; transform: rotate(180deg);">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-     style="display:block; width:100%; height:160px;">
+  style="display:block; width:100%; height:160px;">
 
   <defs>
-    <linearGradient id="waveGradient" gradientTransform="rotate(90)">
+    <linearGradient id="waveGradientTop" gradientTransform="rotate(90)">
       <stop offset="0%" stop-color="#0B3D91"/>
       <stop offset="100%" stop-color="#00F5FF"/>
     </linearGradient>
   </defs>
 
-  <path fill="url(#waveGradient)" opacity="0.7">
+  <path fill="url(#waveGradientTop)" opacity="0.8">
     <animate attributeName="d"
       dur="6s"
       repeatCount="indefinite"
@@ -42,21 +42,65 @@ Full-Stack Developer | Backend Developer | Java Developer 🚀
 
 ## 👨‍💻 About Me
 
-Computer Engineering student and Full-Stack Developer focused on building scalable AI-powered web applications.
+Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications.
 
-🚀 Innovation Lead at CESA  
-🏆 Hackathon Enthusiast  
-🎯 Seeking Full-Stack / Backend roles  
+🚀 Innovation Lead at CESA
+🏆 Hackathon Enthusiast
+🎯 Seeking entry-level Full-Stack or Backend Developer role
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Experience
 
-**Languages:** Java • C++ • Python • JavaScript  
-**Frontend:** React • HTML • CSS • Bootstrap  
-**Backend:** Node.js • REST APIs • Firebase • MySQL  
-**Core:** DSA • OOP • DBMS  
-**Tools:** Git • GitHub • Postman • VS Code • Figma  
+### 🔹 Innovation Lead — CESA
+
+**Oct 2025 – Present**
+
+* Led innovation-driven technical initiatives
+* Coordinated team members for events
+* Supervised project quality
+* Promoted collaborative learning
+
+---
+
+### 🔹 Java Intern — TalentBattle
+
+**Jul 2025 – Aug 2025**
+
+* Completed Core Java and OOP training
+* Built backend mini-projects
+* Applied inheritance and polymorphism
+* Improved debugging skills
+
+---
+
+### 🔹 Freelance Web Developer
+
+**2024 – Present**
+
+* Built responsive client websites
+* Integrated REST APIs and databases
+* Improved UI/UX performance
+
+---
+
+## 🧰 Technical Skills
+
+**Languages:** Java • C++ • Python • JavaScript
+**Frontend:** React • HTML • CSS • Bootstrap
+**Backend:** Node.js • REST APIs • Firebase • MySQL
+**Core:** DSA • OOP • DBMS
+**Tools:** Git • GitHub • Postman • VS Code • Figma
+**Other:** AI Integration • Prompt Engineering
+
+---
+
+## 🏆 Achievements
+
+🥋 National & International Medalist
+📜 IBM SkillsBuild — Enterprise-grade AI
+🚀 Innovation Lead — CESA
+🏅 State-Level Sports Selection
 
 ---
 
@@ -73,16 +117,16 @@ Computer Engineering student and Full-Stack Developer focused on building scalab
 <div align="center" style="line-height:0;">
 
 <svg viewBox="0 0 1200 120" preserveAspectRatio="none"
-     style="display:block; width:100%; height:160px;">
+  style="display:block; width:100%; height:160px;">
 
   <defs>
-    <linearGradient id="waveGradient2" gradientTransform="rotate(90)">
+    <linearGradient id="waveGradientBottom" gradientTransform="rotate(90)">
       <stop offset="0%" stop-color="#00F5FF"/>
       <stop offset="100%" stop-color="#0B3D91"/>
     </linearGradient>
   </defs>
 
-  <path fill="url(#waveGradient2)" opacity="0.7">
+  <path fill="url(#waveGradientBottom)" opacity="0.8">
     <animate attributeName="d"
       dur="6s"
       repeatCount="indefinite"
