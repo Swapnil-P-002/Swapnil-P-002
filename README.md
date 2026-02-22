@@ -1,18 +1,64 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Swapnil Banner"/>
-</p>
-
-<h2 align="center">Full-Stack Developer | Backend Developer | Java Developer 🚀</h2>
+<!-- ===================== HEADER BANNER ===================== -->
 
 <p align="center">
-  📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
+  <img src="./p.svg" width="100%" alt="Swapnil Banner"/>
 </p>
+
+<h2 align="center">
+Full-Stack Developer | Backend Developer | Java Developer 🚀
+</h2>
+
+<p align="center">
+📍 Nashik, Maharashtra, India • 🎓 B.E. Computer Engineering (2026)
+</p>
+
+---
+
+<!-- ===================== TOP WAVE ===================== -->
+
+<div align="center" style="line-height:0; transform: rotate(180deg);">
+
+<svg viewBox="0 0 1200 120" preserveAspectRatio="none"
+     style="display:block; width:100%; height:140px;">
+
+  <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
+           70.36-5.37,136.33-33.31,206.8-37.5
+           C438.64,32.43,512.34,53.67,583,72.05
+           c69.27,18,138.3,24.88,209.4,13.08
+           36.15-6,69.85-17.84,104.45-29.34
+           C989.49,25,1113-14.29,1200,52.47V0Z"
+        opacity="0.25"
+        fill="#0B3D91"></path>
+
+  <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05
+           99.41,111.27,165,111,224.58,91.58
+           c31.15-10.15,60.09-26.07,89.67-39.8
+           40.92-19,84.73-46,130.83-49.67
+           36.26-2.85,70.9,9.42,98.6,31.56
+           31.77,25.39,62.32,62,103.63,73
+           40.44,10.79,81.35-6.69,119.13-24.28
+           s75.16-39,116.92-43.05
+           c59.73-5.85,113.28,22.88,168.9,38.84
+           30.2,8.66,59,6.17,87.09-7.5
+           22.43-10.89,48-26.93,60.65-49.24V0Z"
+        opacity="0.5"
+        fill="#0B3D91"></path>
+
+  <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57
+           43-7.64,84.23-20.12,127.61-26.46
+           59-8.63,112.48,12.24,165.56,35.4
+           C827.93,77.22,886,95.24,951.2,90
+           c86.53-7,172.46-45.71,248.8-84.81V0Z"
+        fill="#0B3D91"></path>
+
+</svg>
+</div>
 
 ---
 
 ## 👨‍💻 Summary
 
-Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications. Delivered freelance web solutions and built scalable products including an intelligent agriculture assistant and AI-enabled e-commerce platform.
+Computer Engineering student and Full-Stack Developer with hands-on experience in Java, React, Node.js, and AI-powered web applications.
 
 🚀 Innovation Lead at CESA  
 🏆 Active hackathon participant  
@@ -22,107 +68,103 @@ Computer Engineering student and Full-Stack Developer with hands-on experience i
 
 ## 💼 Experience
 
-### 🔹 Innovation Lead — CESA (Computer Engineering Students Association, Pune)  
+### 🔹 Innovation Lead — CESA  
 **Oct 2025 – Present**
 
-- Led innovation-driven technical initiatives and student activities  
-- Coordinated team members for successful event execution  
-- Reviewed and supervised project work  
-- Promoted collaborative technical learning  
+- Led innovation-driven technical initiatives  
+- Coordinated team members for events  
+- Supervised project quality  
+- Promoted collaborative learning  
 
 ---
 
 ### 🔹 Java Intern — TalentBattle  
 **Jul 2025 – Aug 2025**
 
-- Completed structured training in Core Java and OOP  
-- Built Java mini-projects to strengthen backend skills  
-- Applied inheritance, polymorphism, encapsulation  
-- Improved debugging and problem-solving  
+- Completed Core Java and OOP training  
+- Built backend mini-projects  
+- Applied inheritance and polymorphism  
+- Improved debugging skills  
 
 ---
 
 ### 🔹 Freelance Web Developer  
 **2024 – Present**
 
-- Designed responsive websites for small business clients  
-- Converted client requirements into optimized solutions  
-- Provided basic digital marketing support  
-
----
-
-## 🚀 Projects
-
-### 🌱 Agrinova — Smart Agriculture System  
-**Mar 2025 – Present**
-
-- Agriculture assistance system analyzing plant & land data  
-- Season-based crop recommendation  
-- Responsive user-friendly interface  
-
-**Tech:** JavaScript, APIs, Data Processing  
-
----
-
-### 🛒 Nike-Inspired E-Commerce Web Application  
-**Dec 2025 – Feb 2026**
-
-- Modern e-commerce platform using React & Node.js  
-- AI-powered product recommendation assistant  
-- Secure API handling and responsive UI  
-
-🔗 Live: https://nike-v3-shoes-swap.vercel.app/
-
-**Tech:** React, Node.js, REST APIs, AI  
+- Built responsive client websites  
+- Integrated REST APIs and databases  
+- Improved UI/UX performance  
 
 ---
 
 ## 🧰 Technical Skills
 
-**Programming:**  
-Java • C++ • Python • JavaScript  
-
-**Web Development:**  
-HTML • CSS • JavaScript • React • Bootstrap  
-
-**Backend & Database:**  
-Node.js • REST API • MySQL • Firebase  
-
-**Core Concepts:**  
-DSA • OOP • DBMS  
-
-**Tools:**  
-Git • GitHub • Postman • VS Code • Figma  
-
-**Other:**  
-AI Integration • Prompt Engineering  
+**Languages:** Java • C++ • Python • JavaScript  
+**Frontend:** React • HTML • CSS • Bootstrap  
+**Backend:** Node.js • REST APIs • Firebase • MySQL  
+**Core:** DSA • OOP • DBMS  
+**Tools:** Git • GitHub • Postman • VS Code • Figma  
+**Other:** AI Integration • Prompt Engineering  
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Achievements
 
-🥋 National & International Medalist — Karate, Kickboxing, Taekwondo  
-📜 IBM SkillsBuild Certification — Enterprise-grade AI  
+🥋 National & International Medalist  
+📜 IBM SkillsBuild AI Certification  
 🚀 Innovation Lead — CESA  
-🏅 State-Level School Sports Selection  
+🏅 State-Level Sports Selection  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-P-002&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+<!-- ===================== BOTTOM INVERT WAVE ===================== -->
 
-📧 Email: swapnilpatil2005980098@gmail.com  
-📱 Phone: +91-8956132407  
-💼 LinkedIn: https://linkedin.com/in/swapnil-r-patil  
-🌐 GitHub: https://github.com/Swapnil-P-002  
+<div align="center" style="line-height:0;">
+
+<svg viewBox="0 0 1200 120" preserveAspectRatio="none"
+     style="display:block; width:100%; height:140px;">
+
+  <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28
+           70.36-5.37,136.33-33.31,206.8-37.5
+           C438.64,32.43,512.34,53.67,583,72.05
+           c69.27,18,138.3,24.88,209.4,13.08
+           36.15-6,69.85-17.84,104.45-29.34
+           C989.49,25,1113-14.29,1200,52.47V0Z"
+        opacity="0.25"
+        fill="#0B3D91"></path>
+
+  <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05
+           99.41,111.27,165,111,224.58,91.58
+           c31.15-10.15,60.09-26.07,89.67-39.8
+           40.92-19,84.73-46,130.83-49.67
+           36.26-2.85,70.9,9.42,98.6,31.56
+           31.77,25.39,62.32,62,103.63,73
+           40.44,10.79,81.35-6.69,119.13-24.28
+           s75.16-39,116.92-43.05
+           c59.73-5.85,113.28,22.88,168.9,38.84
+           30.2,8.66,59,6.17,87.09-7.5
+           22.43-10.89,48-26.93,60.65-49.24V0Z"
+        opacity="0.5"
+        fill="#0B3D91"></path>
+
+  <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57
+           43-7.64,84.23-20.12,127.61-26.46
+           59-8.63,112.48,12.24,165.56,35.4
+           C827.93,77.22,886,95.24,951.2,90
+           c86.53-7,172.46-45.71,248.8-84.81V0Z"
+        fill="#0B3D91"></path>
+
+</svg>
+</div>
 
 ---
 
-⭐ From [Swapnil-P-002](https://github.com/Swapnil-P-002)
+⭐ From **Swapnil Patil**
