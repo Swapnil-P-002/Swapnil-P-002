@@ -100,7 +100,7 @@
 📱 Phone: +91-8956132407  
 💼 LinkedIn: [swapnil-r-patil](https://linkedin.com/in/swapnil-r-patil)  
 🌐 Portfolio: [View My Portfolio](https://my-portfolio-swapnil-patil.vercel.app/)  
-🐙 GitHub: [Swapnil-P-002](https://github.com/Swapnil-P-002)
+🐙 GitHub: [swapnil-r-patil](https://github.com/swapnil-r-patil)
 
 ---
 
