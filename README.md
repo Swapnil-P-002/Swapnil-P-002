@@ -99,7 +99,7 @@
 📧 Email: [swapnilpatil2005980098@gmail.com](mailto:swapnilpatil2005980098@gmail.com)  
 📱 Phone: +91-8956132407  
 💼 LinkedIn: [swapnil-r-patil](https://linkedin.com/in/swapnil-r-patil)  
-🌐 Portfolio: [View My Portfolio](https://my-portfolio-swapnil-patil.vercel.app/)  
+🌐 Portfolio: [View My Portfolio](https://swapnil-portfolio-v2.vercel.app/)  
 🐙 GitHub: [swapnil-r-patil](https://github.com/swapnil-r-patil)
 
 ---
